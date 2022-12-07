@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AoC22Day3_RucksacReorg/1.0.0": {
+        "runtime": {
+          "AoC22Day3_RucksacReorg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AoC22Day3_RucksacReorg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
