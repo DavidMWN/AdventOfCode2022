@@ -1,0 +1,14 @@
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\bin\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.exe
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\bin\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.deps.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\bin\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.runtimeconfig.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\bin\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.runtimeconfig.dev.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\bin\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\bin\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\obj\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.csproj.AssemblyReference.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\obj\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\obj\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.AssemblyInfoInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\obj\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.AssemblyInfo.cs
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\obj\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.csproj.CoreCompileInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\obj\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\obj\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day5_SupplyStacks\AoC22Day5_SupplyStacks\obj\Debug\netcoreapp3.1\AoC22Day5_SupplyStacks.genruntimeconfig.cache
