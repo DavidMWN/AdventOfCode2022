@@ -1,0 +1,14 @@
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\bin\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.exe
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\bin\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.deps.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\bin\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.runtimeconfig.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\bin\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.runtimeconfig.dev.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\bin\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\bin\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\obj\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.csproj.AssemblyReference.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\obj\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\obj\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.AssemblyInfoInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\obj\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.AssemblyInfo.cs
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\obj\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.csproj.CoreCompileInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\obj\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\obj\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day6_ TuningTrouble\AoC22Day6_ TuningTrouble\obj\Debug\netcoreapp3.1\AoC22Day6_ TuningTrouble.genruntimeconfig.cache
