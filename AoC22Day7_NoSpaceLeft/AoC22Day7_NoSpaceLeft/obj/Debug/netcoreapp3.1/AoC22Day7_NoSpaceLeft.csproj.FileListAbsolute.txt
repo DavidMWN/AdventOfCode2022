@@ -1,0 +1,14 @@
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\bin\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.exe
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\bin\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.deps.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\bin\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.runtimeconfig.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\bin\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.runtimeconfig.dev.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\bin\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\bin\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\obj\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.csproj.AssemblyReference.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\obj\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\obj\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.AssemblyInfoInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\obj\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.AssemblyInfo.cs
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\obj\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.csproj.CoreCompileInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\obj\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\obj\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day7_NoSpaceLeft\AoC22Day7_NoSpaceLeft\obj\Debug\netcoreapp3.1\AoC22Day7_NoSpaceLeft.genruntimeconfig.cache

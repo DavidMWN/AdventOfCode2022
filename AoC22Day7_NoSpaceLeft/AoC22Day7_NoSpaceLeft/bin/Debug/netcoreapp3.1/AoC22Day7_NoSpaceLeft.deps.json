@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AoC22Day7_NoSpaceLeft/1.0.0": {
+        "runtime": {
+          "AoC22Day7_NoSpaceLeft.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AoC22Day7_NoSpaceLeft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
