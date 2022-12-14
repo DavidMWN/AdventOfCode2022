@@ -1,0 +1,14 @@
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\bin\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.exe
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\bin\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.deps.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\bin\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.runtimeconfig.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\bin\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.runtimeconfig.dev.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\bin\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\bin\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\obj\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.csproj.AssemblyReference.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\obj\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\obj\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.AssemblyInfoInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\obj\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.AssemblyInfo.cs
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\obj\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.csproj.CoreCompileInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\obj\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\obj\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day9_RopeBridge\AoC22Day9_RopeBridge\obj\Debug\netcoreapp3.1\AoC22Day9_RopeBridge.genruntimeconfig.cache
