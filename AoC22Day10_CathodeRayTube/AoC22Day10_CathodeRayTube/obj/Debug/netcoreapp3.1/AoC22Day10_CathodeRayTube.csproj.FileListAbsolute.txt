@@ -1,0 +1,14 @@
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\bin\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.exe
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\bin\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.deps.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\bin\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.runtimeconfig.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\bin\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.runtimeconfig.dev.json
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\bin\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\bin\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\obj\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.csproj.AssemblyReference.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\obj\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\obj\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.AssemblyInfoInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\obj\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.AssemblyInfo.cs
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\obj\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.csproj.CoreCompileInputs.cache
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\obj\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.dll
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\obj\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.pdb
+D:\GitHub Misc\AdventOfCode2022\AoC22Day10_CathodeRayTube\AoC22Day10_CathodeRayTube\obj\Debug\netcoreapp3.1\AoC22Day10_CathodeRayTube.genruntimeconfig.cache
