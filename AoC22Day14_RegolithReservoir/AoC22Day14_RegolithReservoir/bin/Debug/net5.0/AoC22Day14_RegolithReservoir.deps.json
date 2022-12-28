@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AoCDa22Day14_RegolithReservoir/1.0.0": {
+        "runtime": {
+          "AoCDa22Day14_RegolithReservoir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AoCDa22Day14_RegolithReservoir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
